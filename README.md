@@ -1,1 +1,1 @@
-# rag-with-gemini
+# Geminiを使ったRAGの実装
